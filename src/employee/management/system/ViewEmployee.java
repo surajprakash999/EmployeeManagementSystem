@@ -12,10 +12,11 @@ public class ViewEmployee extends JFrame implements ActionListener{
     Choice cemployeeId;
     JButton search, print, update, back;
     
-    ViewEmployee() {
+    ViewEmployee() { 
         
-        getContentPane().setBackground(Color.WHITE);
-        setLayout(null);
+        
+      getContentPane().setBackground(Color.WHITE);
+      setLayout(null);
         
         JLabel searchlbl = new JLabel("Search by Employee Id  :");
         searchlbl.setBounds(20, 20, 150, 20);
@@ -73,7 +74,7 @@ public class ViewEmployee extends JFrame implements ActionListener{
         add(back);
         
         setSize(900, 700);
-        setLocation(200, 10);
+        setLocation(190, 15);
         setVisible(true);
     }
     
