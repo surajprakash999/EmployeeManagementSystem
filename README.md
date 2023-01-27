@@ -1,6 +1,12 @@
 # EmployeeManagementSystem
 About Employee Management System is a distributed application, developed to maintain the details of employees working in any organization.
 
+• Employee Management System Java Project allows us to manage all employee information in a database where you can
+check and update and view employee details and can delete them in case an employee leaves the company.
+• For a further and deeper understanding, I even referred to some articles, creators, websites and blogs.
+• Technologies Used: Core Java, net beans, concepts of swings and applets
+• Database Used: MySQL
+
 Starting Flash page: ![Screenshot (595)](https://user-images.githubusercontent.com/105808078/215040599-69bbdbe6-c6ae-4022-9e17-96f603c937be.png)
 
 Login Page: ![Screenshot (596)](https://user-images.githubusercontent.com/105808078/215040689-eeec038d-b393-4bbc-b4fc-760231808ab2.png)
